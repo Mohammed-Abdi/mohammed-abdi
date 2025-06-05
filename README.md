@@ -1,0 +1,20 @@
+<h1 align="center">Mohammed Abdi</h1>
+<p align="center">
+  <b>A Software Engineer who loves building products.</b><br/> <br/>
+  <a href="https://www.linkedin.com/in/mohammed-abdi-tahir/" target="_blank">LinkedIn</a> |
+  <a href="https://mohammed-abdi.vercel.app/" target="_blank">Portfolio</a> |
+  <a href="https://t.me/its_mamme" target="_blank">Telegram</a> |
+  <a href="mailto:your.mohammedabdi.ta@gmail.com" target="_blank">Email</a>
+  <br/><br/>
+</p>
+
+<div align="center">
+<b>Technologies I Use</b><br/> <br/>
+<img src="assets/library/react.svg" alt="React" height="40" /> <img width="14"/>
+<img src="assets/language/cplusplus.svg" alt="C++" height="40" /> <img width="14"/>
+<img src="assets/language/javascript.svg" alt="JavaScript" height="40" /> <img width="14"/>
+<img src="assets/language/css.svg" alt="CSS" height="40" /> <img width="14"/>
+<img src="assets/language/html.svg" alt="HTML" height="40" /> <img width="14"/>
+<img src="assets/database/mysql.svg" alt="MYSQL" height="40" /> <img width="14"/>
+<br/><br/><b>🔥Learn. Code. Conquer🔥</b><br/>
+</div>
