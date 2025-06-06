@@ -16,5 +16,5 @@
 <img src="assets/language/css.svg" alt="CSS" height="40" /> <img width="14"/>
 <img src="assets/language/html.svg" alt="HTML" height="40" /> <img width="14"/>
 <img src="assets/database/mysql.svg" alt="MYSQL" height="40" /> <img width="14"/>
-<br/><br/><b>🔥Learn. Code. Conquer🔥</b><br/>
+<br/><br/><b>🔥Turning Ideas Into Reality🔥</b><br/>
 </div>
