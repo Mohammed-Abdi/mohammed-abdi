@@ -2,7 +2,7 @@
 <p align="center">
   <b>A Software Engineer who loves building products.</b><br/> <br/>
   <a href="https://www.linkedin.com/in/mohammed-abdi-tahir/" target="_blank">LinkedIn</a> |
-  <a href="https://mohammed-abdi.vercel.app/" target="_blank">Portfolio</a> |
+  <a href="https://mohammedabdi.vercel.app/" target="_blank">Portfolio</a> |
   <a href="https://t.me/its_mamme" target="_blank">Telegram</a> |
   <a href="mailto:your.mohammedabdi.ta@gmail.com" target="_blank">Email</a>
   <br/><br/>
