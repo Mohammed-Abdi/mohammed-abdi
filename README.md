@@ -14,8 +14,8 @@
   <img src="assets/framework/nextjs.svg" alt="React" height="40" width="40"/>
   &nbsp;&nbsp;
 
-  <img src="assets/database/supabase.svg" alt="React" height="40" width="40"/>
-  &nbsp;&nbsp;
+  <!-- <img src="assets/database/supabase.svg" alt="React" height="40" width="40"/>
+  &nbsp;&nbsp; -->
 
   <img src="assets/library/react.svg" alt="React" height="40" width="40"/>
   &nbsp;&nbsp;
@@ -25,7 +25,7 @@
 
   <img src="assets/language/cplusplus.svg" alt="C++" height="40" width="40"/>
   &nbsp;&nbsp;
-  
+
   <img src="assets/language/javascript.svg" alt="JavaScript" height="40" width="40"/>
 </p>
 <br/>
