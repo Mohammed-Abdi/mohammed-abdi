@@ -20,9 +20,11 @@
   <img src="assets/library/react.svg" alt="React" height="40" width="40"/>
   &nbsp;&nbsp;
   
-  <img src="assets/database/postgresql.svg" alt="postgreSQL" height="40" width="40"/>
-  &nbsp;&nbsp;
+ 
   <img src="assets/language/typescript.svg" alt="TypeScript" height="40" width="40"/>
+  &nbsp;&nbsp;
+
+  <img src="assets/database/postgresql.svg" alt="postgreSQL" height="40" width="40"/>
   &nbsp;&nbsp;
 
   <img src="assets/language/cplusplus.svg" alt="C++" height="40" width="40"/>
