@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/mohammed-abdi-tahir/" target="_blank">LinkedIn</a> |
   <a href="https://t.me/its_mamme" target="_blank">Telegram</a> |
   <a href="mailto:your.mohammedabdi.ta@gmail.com" target="_blank">Email</a>
-  <br/>
+  <br/><br/>
 </p>
 
 <div align="center">
@@ -27,5 +27,6 @@
   <img src="assets/framework/tailwindcss.svg" alt="tailwindcss" height="40" width="40"/>
 
 </p>
+<br/>
   <b>🔥Turning Ideas Into Experiences🔥</b>
 </div>
