@@ -22,11 +22,11 @@
   
   <img src="assets/database/postgresql.svg" alt="postgreSQL" height="40" width="40"/>
   &nbsp;&nbsp;
-
-  <img src="assets/language/cplusplus.svg" alt="C++" height="40" width="40"/>
+  <img src="assets/language/javascript.svg" alt="JavaScript" height="40" width="40"/>
   &nbsp;&nbsp;
 
-  <img src="assets/language/javascript.svg" alt="JavaScript" height="40" width="40"/>
+  <img src="assets/language/cplusplus.svg" alt="C++" height="40" width="40"/>
+
 </p>
 <br/>
   <b>🔥Turning Ideas Into Reality🔥</b>
