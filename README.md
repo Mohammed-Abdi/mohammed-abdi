@@ -28,6 +28,6 @@
 
 </p>
 <br/>
-  <b>🔥Turning Ideas Into Reality🔥</b>
+  <b>🔥Turning Ideas Into Experiences🔥</b>
 <br/>
 </div>
