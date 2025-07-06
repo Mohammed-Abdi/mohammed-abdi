@@ -11,7 +11,7 @@
 <div align="center">
 <b>Technologies I Use</b><br/> <br/>
 <p align="center">
-  <img src="assets/framework/nextjs.svg" alt="React" height="40" width="40"/>
+  <img src="assets/framework/nextjs.svg" alt="next" height="40" width="40"/>
   &nbsp;&nbsp;
 
   <!-- <img src="assets/database/supabase.svg" alt="React" height="40" width="40"/>
@@ -22,7 +22,7 @@
   
   <img src="assets/database/postgresql.svg" alt="postgreSQL" height="40" width="40"/>
   &nbsp;&nbsp;
-  <img src="assets/language/javascript.svg" alt="JavaScript" height="40" width="40"/>
+  <img src="assets/language/typescript.svg" alt="TypeScript" height="40" width="40"/>
   &nbsp;&nbsp;
 
   <img src="assets/language/cplusplus.svg" alt="C++" height="40" width="40"/>
