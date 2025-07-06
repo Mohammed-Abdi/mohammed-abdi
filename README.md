@@ -21,7 +21,7 @@
   &nbsp;&nbsp;
   <img src="assets/language/html.svg" alt="HTML" height="40" width="40"/>
   &nbsp;&nbsp;
-  <img src="assets/database/mysql.svg" alt="MySQL" height="40" width="40"/>
+  <img src="assets/database/postgresql.svg" alt="postgreSQL" height="40" width="40"/>
 </p>
 <br/>
   <b>🔥Turning Ideas Into Reality🔥</b>
