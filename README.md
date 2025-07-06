@@ -23,5 +23,7 @@
   &nbsp;&nbsp;
   <img src="assets/database/mysql.svg" alt="MySQL" height="40" width="40"/>
 </p>
-<br/><br/><b>🔥Turning Ideas Into Reality🔥</b><br/>
+<br/>
+  <b>🔥Turning Ideas Into Reality🔥</b>
+<br/>
 </div>
