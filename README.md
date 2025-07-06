@@ -27,7 +27,5 @@
   <img src="assets/framework/tailwindcss.svg" alt="tailwindcss" height="40" width="40"/>
 
 </p>
-<br/>
   <b>🔥Turning Ideas Into Experiences🔥</b>
-<br/>
 </div>
