@@ -11,17 +11,17 @@
 <div align="center">
 <b>Technologies I Use</b><br/> <br/>
 <p align="center">
-  <img src="assets/library/react.svg" alt="React" height="30"/>
+  <img src="assets/library/react.svg" alt="React" height="30" width="30"/>
   &nbsp;&nbsp;
-  <img src="assets/language/cplusplus.svg" alt="C++" height="30"/>
+  <img src="assets/language/cplusplus.svg" alt="C++" height="30" width="30"/>
   &nbsp;&nbsp;
-  <img src="assets/language/javascript.svg" alt="JavaScript" height="30"/>
+  <img src="assets/language/javascript.svg" alt="JavaScript" height="30" width="30"/>
   &nbsp;&nbsp;
-  <img src="assets/language/css.svg" alt="CSS" height="30"/>
+  <img src="assets/language/css.svg" alt="CSS" height="30" width="30"/>
   &nbsp;&nbsp;
-  <img src="assets/language/html.svg" alt="HTML" height="30"/>
+  <img src="assets/language/html.svg" alt="HTML" height="30" width="30"/>
   &nbsp;&nbsp;
-  <img src="assets/database/mysql.svg" alt="MySQL" height="30"/>
+  <img src="assets/database/mysql.svg" alt="MySQL" height="30" width="30"/>
 </p>
 <br/><br/><b>🔥Turning Ideas Into Reality🔥</b><br/>
 </div>
