@@ -17,10 +17,6 @@
   &nbsp;&nbsp;
   <img src="assets/language/javascript.svg" alt="JavaScript" height="40" width="40"/>
   &nbsp;&nbsp;
-  <img src="assets/language/css.svg" alt="CSS" height="40" width="40"/>
-  &nbsp;&nbsp;
-  <img src="assets/language/html.svg" alt="HTML" height="40" width="40"/>
-  &nbsp;&nbsp;
   <img src="assets/database/postgresql.svg" alt="postgreSQL" height="40" width="40"/>
 </p>
 <br/>
