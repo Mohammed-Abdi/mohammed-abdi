@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/mohammed-abdi-tahir/" target="_blank">LinkedIn</a> |
   <a href="https://t.me/its_mamme" target="_blank">Telegram</a> |
   <a href="mailto:your.mohammedabdi.ta@gmail.com" target="_blank">Email</a>
-  <br/><br/>
+  <br/>
 </p>
 
 <div align="center">
